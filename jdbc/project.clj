@@ -1,6 +1,6 @@
 (defproject com.github.taojoe/ragtime.jdbc "0.7.2"
   :description "Ragtime migrations for JDBC"
-  :url "https://github.com/weavejester/ragtime"
+  :url "https://github.com/taojoe/ragtime"
   :scm {:dir ".."}
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
